@@ -4,11 +4,12 @@ Obrigado pelo interesse! Toda ajuda conta: ideias, testes, textos, traduções e
 
 ## Em que fase o projeto está
 
-O NitRAM está em desenvolvimento e ainda não tem versão para baixar. Nesta fase, as contribuições mais úteis são:
+A versão **1.0.0** saiu. Agora, as contribuições mais úteis são:
 
-- ideias de recursos e de melhorias;
-- revisão da parte de privacidade (o que pode vazar da RAM e como evitar);
-- quando sair a primeira versão, testes em diferentes versões do Windows.
+- testes em diferentes versões e configurações do Windows;
+- relatos de problemas, com o passo a passo para repetir;
+- revisão da parte de privacidade (o que ainda pode vazar da RAM e como evitar);
+- traduções (inglês e espanhol estão previstos).
 
 ## Abrindo uma issue
 
