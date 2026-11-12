@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Nithiro">
+  <g transform="translate(-4 0)">
+    <path d="M24 84 V50 a22 22 0 0 1 44 0 V84" fill="none" stroke="#0a0a0a" stroke-width="14"/>
+    <circle cx="82" cy="22" r="8" fill="#0a0a0a"/>
+  </g>
+</svg>

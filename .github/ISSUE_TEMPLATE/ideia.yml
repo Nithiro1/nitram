@@ -1,0 +1,22 @@
+name: Sugerir uma ideia
+description: Um recurso novo ou uma melhoria
+labels: ["ideia"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Que problema a ideia resolve?
+      description: Conte a situação em que você sentiu falta disso.
+    validations:
+      required: true
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Como você imagina a solução?
+    validations:
+      required: true
+  - type: textarea
+    id: privacidade
+    attributes:
+      label: Isso afeta a privacidade?
+      description: A ideia pode fazer algum dado sair da RAM? Se sim, explique.

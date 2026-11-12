@@ -1,0 +1,14 @@
+# Rust
+/target/
+**/*.rs.bk
+
+# Imagens de disco do NitRAM (podem conter dados pessoais)
+*.nitimg
+
+# Sistema e editores
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.swp
